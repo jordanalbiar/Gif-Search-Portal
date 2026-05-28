@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Gif Search Portal
 
-# Run and deploy your AI Studio app
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133521.png?raw=true)
 
-This contains everything you need to run your app locally.
+API keys
 
-View your app in AI Studio: https://ai.studio/apps/2645f4c7-494b-4e36-ab0d-3b136f3c3d35
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133540.png?raw=true)
 
-## Run Locally
+Search
 
-**Prerequisites:**  Node.js
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133554.png?raw=true)
 
+Click to copy
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133712.png?raw=true)
+
+Favorites Manager
+
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133725.png?raw=true)
+
+settings
+
+![screenshot](https://github.com/jordanalbiar/Gif-Portal-Search/blob/main/Screenshot_20260528_133757.png)
+
